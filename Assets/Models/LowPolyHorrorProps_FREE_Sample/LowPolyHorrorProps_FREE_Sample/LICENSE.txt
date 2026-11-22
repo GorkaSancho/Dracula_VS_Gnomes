@@ -1,0 +1,18 @@
+LOW POLY HORROR PROPS - LICENSE (Royalty-Free)
+
+Copyright (c) 2026 skozy59. All rights reserved.
+
+YOU MAY
+- Use these assets in any number of personal and commercial projects: video games, apps, films,
+  animations, renders, prototypes, game jams, teaching.
+- Modify the assets (change shapes, colors, textures) for use in your projects.
+- Sell or give away the projects you make with them (a game, an app, a video...).
+- No attribution required (a credit is always appreciated).
+
+YOU MAY NOT
+- Resell, share, re-upload or redistribute the assets themselves, modified or not, on their own or in
+  another asset pack / asset store / free model website.
+- Use them to train AI models, or include them in datasets.
+- Claim that you created these assets.
+
+The assets are provided "as is", without warranty of any kind.
